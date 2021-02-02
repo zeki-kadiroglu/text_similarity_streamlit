@@ -2,7 +2,7 @@
 
 **By using web scrapping method, extracted all words from any web page.
 
-**Text cleaning nltk('stopwords')
+**Text cleaning with nltk('stopwords')
 
 **With Glove and Spacy trained models, word embedding.
 
